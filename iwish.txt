@@ -37,7 +37,7 @@ mediainfinit123
 
 http://themerex.net/
 
--foundation
+-foundation (inclusiv form validation)
 -ajax
 -json
 -grunt
